@@ -5,6 +5,7 @@ authors = ["Christine Dodrill <me@christine.website>"]
 edition = "2018"
 description = "Printer facts in a crate!"
 license = "0bsd"
+repository = "https://tulpa.dev/cadey/pfacts"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
